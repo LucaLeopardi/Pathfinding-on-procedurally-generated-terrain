@@ -1,7 +1,3 @@
----
-tags:
-  - AIForVideoGames/Progetto
----
 # Tidewalker
 ### Introduction
 The following documentation follows the implementation of a project developed for the Artificial Intelligence for Video Games course held in Università Statale di Milano by professors Davide Gadia and Dario Maggiorini.
